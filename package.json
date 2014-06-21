@@ -1,0 +1,53 @@
+{
+	"name": "color-blind",
+	"description": "Simulate color blindness by converting RGB hex codes",
+	"version": "0.1.0",
+	"homepage": "https://github.com/skratchdot/color-blind",
+	"author": {
+		"name": "skratchdot",
+		"email": "git@skratchdot.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/skratchdot/color-blind.git"
+	},
+	"bugs": {
+		"url": "https://github.com/skratchdot/color-blind/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/skratchdot/color-blind/blob/master/LICENSE-MIT"
+		}
+	],
+	"main": "lib/color-blind",
+	"engines": {
+		"node": ">= 0.8.0"
+	},
+	"scripts": {
+		"test": "gulp test"
+	},
+	"dependencies": {
+		"onecolor": "^2.4.0"
+	},
+	"devDependencies": {
+		"gulp": "^3.8.1",
+		"gulp-jshint": "^1.6.3",
+		"gulp-nodeunit": "0.0.5"
+	},
+	"keywords": [
+		"color",
+		"colour",
+		"blindness",
+		"simulation",
+		"rgb",
+		"protanomaly",
+		"protanopia",
+		"deuteranomaly",
+		"deuteranopia",
+		"tritanomaly",
+		"tritanopia",
+		"achromatomaly",
+		"achromatopsia"
+	]
+}
