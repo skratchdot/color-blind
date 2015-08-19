@@ -7,7 +7,7 @@
 [![Dependency Status](https://david-dm.org/skratchdot/color-blind.svg)](https://david-dm.org/skratchdot/color-blind)
 [![devDependency Status](https://david-dm.org/skratchdot/color-blind/dev-status.svg)](https://david-dm.org/skratchdot/color-blind#info=devDependencies)
 
-[![NPM](https://nodei.co/npm/color-blind.svg)](https://npmjs.org/package/color-blind)
+[![NPM](https://nodei.co/npm/color-blind.png)](https://npmjs.org/package/color-blind)
 
 
 ## Description
