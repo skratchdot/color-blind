@@ -28,11 +28,11 @@
     "test": "gulp test"
   },
   "dependencies": {
-    "onecolor": "^2.5.0"
+    "onecolor": "^3.0.4"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-jshint": "^1.11.2",
+    "gulp-jshint": "^2.0.1",
     "gulp-nodeunit": "0.0.5"
   },
   "keywords": [
