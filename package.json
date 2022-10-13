@@ -32,7 +32,7 @@
     "test": "gulp test"
   },
   "dependencies": {
-    "onecolor": "^2.5.0"
+    "onecolor": "^3.1.0"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
