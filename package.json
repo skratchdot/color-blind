@@ -35,9 +35,9 @@
     "onecolor": "^2.5.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-jshint": "^1.11.2",
-    "gulp-nodeunit": "0.0.5"
+    "gulp": "^4.0.2",
+    "gulp-jshint": "^2.1.0",
+    "gulp-nodeunit": "^0.1.0"
   },
   "keywords": [
     "color",
