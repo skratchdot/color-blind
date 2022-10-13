@@ -26,7 +26,7 @@
   ],
   "main": "lib/color-blind",
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 14"
   },
   "scripts": {
     "test": "gulp test"
