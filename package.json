@@ -1,7 +1,7 @@
 {
   "name": "color-blind",
   "description": "Simulate color blindness by converting RGB hex codes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/skratchdot/color-blind",
   "author": {
     "name": "skratchdot",
