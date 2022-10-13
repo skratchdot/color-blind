@@ -17,7 +17,11 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/skratchdot/color-blind/blob/master/LICENSE-MIT"
+      "url": "https://spdx.org/licenses/MIT.html"
+    },
+    {
+      "type": "CC-BY-SA-4.",
+      "": "https://spdx.org/licenses/CC-BY-SA-4.0.html"
     }
   ],
   "main": "lib/color-blind",

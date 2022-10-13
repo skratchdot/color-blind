@@ -175,5 +175,41 @@ blinder.achromatopsia("#42dead", true);
 
 
 ## License
-Copyright (c) 2014 skratchdot  
+
+Originally this project was licensed with:
+
+```
+Copyright (c) 2014 skratchdot
 Licensed under the MIT license.
+```
+
+But the main algorithm is from code that included:
+
+```
+The Color Blindness Simulation function is
+copyright (c) 2000-2001 by Matthew Wickline and the
+Human-Computer Interaction Resource Network ( http://hcirn.com/ ).
+
+It is used with the permission of Matthew Wickline and HCIRN,
+and is freely available for non-commercial use. For commercial use, please
+contact the Human-Computer Interaction Resource Network ( http://hcirn.com/ ).
+```
+
+I've included a note about HCIRN that was copied/edited from http://colorlab.wickline.org/colorblind/colorlab/engine.js:
+
+```
+HCIRN appears to no longer exist. This makes it impractical
+for users to obtain permission from HCIRN in order to use
+this file for commercial works. Instead:
+
+This work is licensed under a
+Creative Commons Attribution-ShareAlike 4.0 International License.
+http://creativecommons.org/licenses/by-sa/4.0/
+```
+
+On 10/13/2022 the license needed to be updated to include `CC-BY-SA-4.0`.
+
+For more information about this change, please see:
+https://github.com/skratchdot/color-blind/issues/3
+
+Sorry for any issues this has caused.
